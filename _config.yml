@@ -1,0 +1,19 @@
+# Site settings
+name: 王宇
+location: 北京
+company: 北京创仕科锐信息技术有限公司
+position: Java开发工程师
+github: https://github.com/wy732756662
+facebook: https://www.facebook.com/
+phone: 18810389530
+email: wymyxlqm@163.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
