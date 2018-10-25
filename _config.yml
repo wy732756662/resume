@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 18810389530
 email: wymyxlqm@163.com
 
-baseurl: "/resumer"
+baseurl: "/resume"
 
 permalink: /:year/:month/:day/:title/
 
