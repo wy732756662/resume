@@ -18,7 +18,7 @@ Configuration file: C:/..../resume.io/_config.yml
   Server running... press ctrl-c to stop.
 ```
 
-然后可以访问[http://127.0.0.1:4000/resume.io/](http://127.0.0.1:4000/resume.io/)来访问本地的服务了。
+然后可以访问[http://127.0.0.1:4000/resume/](http://127.0.0.1:4000/resume/)来访问本地的服务了。
 
 
 ## 参考
